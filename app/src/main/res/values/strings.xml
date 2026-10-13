@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MovieTracker</string>
+    <string name="app_tagline">Bingung mau nonton apa? Pilih genre, buka detail film, simpan favoritmu, dan beri rating.</string>
+
+    <!-- Content description -->
+    <string name="cd_back">Kembali</string>
+    <string name="cd_logo">Logo Movie Picker</string>
+    <string name="cd_poster">Poster film</string>
+    <string name="cd_detail">Buka detail film</string>
+
+    <!-- Register -->
+    <string name="register_title">Buat Akun Baru</string>
+    <string name="register_subtitle">Daftar agar bisa menyimpan favorit dan memberi rating</string>
+    <string name="hint_full_name">Nama lengkap</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Konfirmasi password</string>
+    <string name="btn_register">Daftar</string>
+    <string name="link_go_login">Sudah punya akun? Login di sini</string>
+
+    <!-- Login -->
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Login untuk melanjutkan ke Movie Picker</string>
+    <string name="hint_username_or_email">Username atau email</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_go_register">Belum punya akun? Daftar</string>
+
+    <!-- Home -->
+    <string name="btn_pick_movie">Pick a Movie</string>
+    <string name="btn_my_favorites">My Favorites</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- Genre -->
+    <string name="genre_title">Pilih Genre</string>
+    <string name="genre_subtitle">Kamu lagi pengen nonton film apa hari ini?</string>
+    <string name="genre_action">Action</string>
+    <string name="genre_comedy">Comedy</string>
+    <string name="genre_horror">Horror</string>
+    <string name="genre_romance">Romance</string>
+    <string name="genre_scifi">Sci-Fi</string>
+
+    <!-- Daftar film -->
+    <string name="movie_list_title">Daftar Film</string>
+    <string name="movie_list_empty">Belum ada film untuk genre ini</string>
+
+    <!-- Detail film -->
+    <string name="detail_title">Detail Film</string>
+    <string name="label_synopsis">Sinopsis</string>
+    <string name="label_rate">Beri Rating</string>
+    <string name="btn_add_favorite">Add to Favorites</string>
+    <string name="btn_submit_rating">Submit Rating</string>
+    <string name="btn_view_favorites">Lihat Daftar Favorit</string>
+
+    <!-- Favorit -->
+    <string name="favorite_title">Film Favorit</string>
+    <string name="favorite_empty">Kamu belum memiliki film favorit</string>
+</resources>

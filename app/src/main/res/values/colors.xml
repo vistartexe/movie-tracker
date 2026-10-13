@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Latar dan permukaan (tema bioskop gelap) -->
+    <color name="bg_dark">#0D0D10</color>
+    <color name="surface">#1B1B21</color>
+    <color name="divider">#33333D</color>
+    <color name="input_stroke_default">#5C5C69</color>
+
+    <!-- Aksen -->
+    <color name="accent_red">#E50914</color>
+    <color name="accent_red_dark">#B20710</color>
+    <color name="accent_orange">#FF7A1A</color>
+
+    <!-- Teks -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0BA</color>
+
+    <!-- Rating -->
+    <color name="star_yellow">#FFC107</color>
+    <color name="star_empty">#4A4A55</color>
+
+    <!-- Warna kartu genre -->
+    <color name="genre_action">#D32F2F</color>
+    <color name="genre_comedy">#F9A825</color>
+    <color name="genre_horror">#4A148C</color>
+    <color name="genre_romance">#C2185B</color>
+    <color name="genre_scifi">#0277BD</color>
+</resources>
