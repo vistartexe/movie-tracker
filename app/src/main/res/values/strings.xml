@@ -4,7 +4,7 @@
 
     <!-- Content description -->
     <string name="cd_back">Kembali</string>
-    <string name="cd_logo">Logo Movie Picker</string>
+    <string name="cd_logo">Logo MovieTracker</string>
     <string name="cd_poster">Poster film</string>
     <string name="cd_detail">Buka detail film</string>
 
@@ -21,7 +21,7 @@
 
     <!-- Login -->
     <string name="login_title">Selamat Datang</string>
-    <string name="login_subtitle">Login untuk melanjutkan ke Movie Picker</string>
+    <string name="login_subtitle">Login untuk melanjutkan ke MovieTracker</string>
     <string name="hint_username_or_email">Username atau email</string>
     <string name="btn_login">Login</string>
     <string name="btn_go_register">Belum punya akun? Daftar</string>
